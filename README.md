@@ -28,8 +28,8 @@ Open to entry-level opportunities in Data Analytics, Business Analytics, Busines
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
-| [Customer Churn Prediction](https://github.com/vaibhavmishra0044-bot/customer-churn-prediction) | Analyzed telecom customer churn patterns, compared predictive models and developed actionable retention recommendations. | Python, Pandas, Scikit-learn, XGBoost, Streamlit |
-| [SkinAI](https://github.com/vaibhavmishra0044-bot/SkinAI) | AI-assisted skin image screening web application with vision-based analysis and a local model fallback. Educational use only; not a diagnostic device. | Python, Flask, TensorFlow, AI vision APIs |
+| [Customer Churn Prediction](https://github.com/vaibhavmishra0044/customer-churn-prediction) | Analyzed telecom customer churn patterns, compared predictive models and developed actionable retention recommendations. | Python, Pandas, Scikit-learn, XGBoost, Streamlit |
+| [SkinAI](https://github.com/vaibhavmishra0044/SkinAI) | AI-assisted skin image screening web application with vision-based analysis and a local model fallback. Educational use only; not a diagnostic device. | Python, Flask, TensorFlow, AI vision APIs |
 
 ## Experience
 
@@ -47,7 +47,7 @@ Worked on data extraction, reporting, campaign analysis, lead segmentation and d
 
 ## GitHub Activity
 
-[View my repositories](https://github.com/vaibhavmishra0044-bot?tab=repositories) · [View my GitHub profile and contribution activity](https://github.com/vaibhavmishra0044-bot)
+[View my repositories](https://github.com/vaibhavmishra0044?tab=repositories) · [View my GitHub profile and contribution activity](https://github.com/vaibhavmishra0044)
 
 ## Let's Connect
 
