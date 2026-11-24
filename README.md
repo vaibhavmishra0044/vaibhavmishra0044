@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Mishra 👋
+# Vaibhav Mishra
 
 **Data Analytics | Business Intelligence | Machine Learning**
 
@@ -6,19 +6,16 @@ B.Tech Computer Science Engineering (Data Science) graduate based in Pune, India
 
 Open to entry-level opportunities in Data Analytics, Business Analytics, Business Intelligence and AI/ML.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-mishra04)
+[LinkedIn](https://linkedin.com/in/vaibhav-mishra04)
 
 ## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-1F447E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+| Category | Tools |
+| --- | --- |
+| Programming and databases | Python, SQL |
+| Business intelligence | Excel, Power BI, Tableau |
+| Data analysis | Pandas, NumPy |
+| Machine learning | Scikit-learn, TensorFlow, PyTorch |
 
 - **Analytics:** Data cleaning, exploratory data analysis, statistical analysis, visualization and KPI reporting
 - **Business Intelligence:** Dashboards, business insights and stakeholder communication
@@ -45,11 +42,7 @@ Worked on data extraction, reporting, campaign analysis, lead segmentation and d
 - IBM — Introduction to Data Science Specialization
 - Google — Project Management Professional Certificate
 
-## GitHub Activity
-
-[View my repositories](https://github.com/vaibhavmishra0044?tab=repositories) · [View my GitHub profile and contribution activity](https://github.com/vaibhavmishra0044)
-
-## Let's Connect
+## Contact
 
 I'm interested in opportunities where data, technology and business decision-making come together.
 
